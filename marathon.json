@@ -12,7 +12,7 @@
     "type": "DOCKER",
     "volumes": [],
     "docker": {
-      "image": "chzbrgr71/go-web",
+      "image": "harineerati/go-web",
       "network": "BRIDGE",
       "portMappings": [
         {
